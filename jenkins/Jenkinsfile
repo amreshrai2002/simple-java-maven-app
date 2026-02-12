@@ -23,7 +23,7 @@ pipeline {
         }
         stage('Complete') {
             steps {
-                echo 'Job had Completed in branch 1!'
+                echo 'Job had Completed in branch 2!'
             }
         }
     }
